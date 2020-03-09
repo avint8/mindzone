@@ -1,0 +1,20 @@
+*{  
+    background-color: black;
+    color: white;
+}
+h1{color: rgb(41, 73, 161);}
+p{ font-size: 1.3rem;}
+#name{ 
+   
+    display: inline-block;
+    width: 30%;
+}
+#text{ 
+    display: inline-block;
+    width: 50%;
+}
+#number{
+    display: inline-block;
+    color: rgb(230, 84, 84);
+    width: 2%;
+}
